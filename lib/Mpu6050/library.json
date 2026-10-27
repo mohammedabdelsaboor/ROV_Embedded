@@ -1,0 +1,6 @@
+{
+  "name": "Mpu6050",
+  "version": "1.0.0",
+  "description": "Minimal MPU6050 driver with complementary-filter attitude estimate",
+  "frameworks": "arduino"
+}

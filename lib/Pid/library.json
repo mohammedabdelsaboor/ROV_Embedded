@@ -1,0 +1,6 @@
+{
+  "name": "Pid",
+  "version": "1.0.0",
+  "description": "Small PID controller with integral clamp and derivative-on-measurement",
+  "frameworks": "arduino"
+}

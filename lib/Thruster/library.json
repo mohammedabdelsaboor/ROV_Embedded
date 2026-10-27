@@ -1,0 +1,7 @@
+{
+  "name": "Thruster",
+  "version": "1.1.0",
+  "description": "Driver for Blue Robotics thrusters (T100/T200) via Basic ESC PWM. AVR uses Servo, ESP32 uses LEDC.",
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "espressif32"]
+}

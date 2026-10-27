@@ -1,0 +1,10 @@
+# PlatformIO
+.pio/
+
+# VS Code: keep extensions.json, ignore generated files
+.vscode/*
+!.vscode/extensions.json
+
+# OS / editor
+.DS_Store
+*.swp

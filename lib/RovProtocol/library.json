@@ -1,0 +1,6 @@
+{
+  "name": "RovProtocol",
+  "version": "1.0.0",
+  "description": "CAN bus message definitions shared by the ROV and the surface station",
+  "frameworks": "arduino"
+}

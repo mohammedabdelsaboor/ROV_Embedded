@@ -1,0 +1,6 @@
+{
+  "name": "ThrusterMixer",
+  "version": "1.0.0",
+  "description": "6-thruster vectored frame mixer (BlueROV2 / ArduSub VECTORED layout)",
+  "frameworks": "arduino"
+}
