@@ -1,6 +1,6 @@
-# ROV-Embedded
+# ROV_Embedded
 
-[![CI](https://github.com/OWNER/ROV-Embedded/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/ROV-Embedded/actions/workflows/ci.yml)
+[![CI](https://github.com/mohammedabdelsaboor/ROV_Embedded/actions/workflows/ci.yml/badge.svg)](https://github.com/mohammedabdelsaboor/ROV_Embedded/actions/workflows/ci.yml)
 
 Embedded firmware for a 6-thruster ROV in the BlueROV2 "vectored" layout. A
 surface station sends pilot commands over a CAN bus that runs through the
@@ -41,8 +41,8 @@ Requires [PlatformIO](https://platformio.org/) (the VS Code extension or the
 CLI).
 
 ```bash
-git clone https://github.com/OWNER/ROV-Embedded.git
-cd ROV-Embedded
+git clone https://github.com/mohammedabdelsaboor/ROV_Embedded.git
+cd ROV_Embedded
 
 pio run                             # build ROV + station
 pio run -e rov -t upload            # flash the ESP32-S3 PowerFeather
@@ -61,7 +61,7 @@ toolbar appears. Then pick the environment in the status bar.
 ## Repository layout
 
 ```
-ROV-Embedded/
+ROV_Embedded/
 ├── platformio.ini          build environments: rov, station, thruster_test, native
 ├── src/
 │   ├── rov/                ESP32-S3 PowerFeather firmware
